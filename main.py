@@ -64,7 +64,7 @@ for link in links:
     # Ano da Edição
     anoEdicaoBruto = siteLivro.find("td", class_="value-field Ano-da-Edicao")
     if anoEdicaoBruto == None:
-        anoEdicao = "Não informado"
+        anoEdicao = None
     else:
         anoEdicao = anoEdicaoBruto.string.extract()
 
