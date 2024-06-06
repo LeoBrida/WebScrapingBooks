@@ -12,7 +12,7 @@ requisicao = requests.get(link)
 site = BeautifulSoup(requisicao.text, "html.parser")
 
 linksLivros = []
-livros = site.find_all("a", class_="productImage",limit = 2)
+livros = site.find_all("a", class_="productImage",limit = 900)
 for livro in livros:
     link = livro['href']
     linksLivros.append(link)
