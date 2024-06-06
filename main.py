@@ -3,6 +3,7 @@ import requests
 import time
 import json
 from bs4 import BeautifulSoup
+import isbnlib
 
 
 link = "https://www.livrariascuritiba.com.br/livros?PS=24&lid=b5cba55c-e771-4ab0-9d34-31a060dc42e3"
@@ -11,13 +12,16 @@ requisicao = requests.get(link)
 
 site = BeautifulSoup(requisicao.text, "html.parser")
 
+cont = 0
 linksLivros = []
-livros = site.find_all("a", class_="productImage",limit = 900)
+livros = site.find_all("a", class_="productImage",limit = 500)
 for livro in livros:
     link = livro['href']
     linksLivros.append(link)
+    cont += 1
 
 links = list(set(linksLivros))
+print(cont)
 
 dictsList = []
 
@@ -45,7 +49,12 @@ for link in links:
     if isbnBruto == None:
         isbn = None
     else:
-        isbn = isbnBruto.string.extract()
+        valorIsbn = isbnBruto.string.extract()
+        isbn = valorIsbn
+        if isbnlib.is_isbn10(isbn):
+            isbn = isbnlib.to_isbn13(isbn)
+        else:
+            isbn = isbn
   
     # Número de Páginas
     numPaginasBruto = siteLivro.find("td", class_="value-field Numero-de-Paginas")

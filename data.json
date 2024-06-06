@@ -1,10 +1,61 @@
 [
   {
+    "url": "https://www.livrariascuritiba.com.br/tab--transtorno-afetivo-bipolar-lv486550/p",
+    "titulo": "Tab: Transtorno Afetivo Bipolar",
+    "edicao": "1",
+    "serie": null,
+    "isbn": "9786555981179",
+    "numPaginas": "224",
+    "editora": "DARKSIDE",
+    "ano": "2021",
+    "autores": "DRA KAY REDFIELD JAMISON JAMISON",
+    "tags": "Psicologia",
+    "precos": "R$ 29,90",
+    "nota": {
+      "notaFinal": null,
+      "qtdVotos": null
+    }
+  },
+  {
+    "url": "https://www.livrariascuritiba.com.br/o-fabricante-de-lagrimas-lv506674/p",
+    "titulo": "O Fabricante De L\u00e1grimas",
+    "edicao": "1",
+    "serie": null,
+    "isbn": "9786560050341",
+    "numPaginas": "560",
+    "editora": "HARPERCOLLINS",
+    "ano": "2023",
+    "autores": "ERIN DOOM",
+    "tags": "Romance",
+    "precos": "R$ 61,50",
+    "nota": {
+      "notaFinal": null,
+      "qtdVotos": null
+    }
+  },
+  {
+    "url": "https://www.livrariascuritiba.com.br/habitos-atomicos-lv453264/p",
+    "titulo": "H\u00e1bitos At\u00f4micos",
+    "edicao": "1",
+    "serie": null,
+    "isbn": "9788550807560",
+    "numPaginas": "320",
+    "editora": "ALTA LIFE",
+    "ano": "2019",
+    "autores": "JAMES CLEAR",
+    "tags": "Autoajuda",
+    "precos": "R$ 46,90",
+    "nota": {
+      "notaFinal": null,
+      "qtdVotos": null
+    }
+  },
+  {
     "url": "https://www.livrariascuritiba.com.br/misterio-em-chalk-hill-lv418055/p",
     "titulo": "Mist\u00e9rio Em Chalk Hill",
     "edicao": "1",
     "serie": null,
-    "isbn": "8555390885",
+    "isbn": "9788555390883",
     "numPaginas": "424",
     "editora": "PENSAMENTO",
     "ano": "2017",
@@ -17,50 +68,16 @@
     }
   },
   {
-    "url": "https://www.livrariascuritiba.com.br/o-alienista---edicao-de-luxo-lv480484/p",
-    "titulo": "O Alienista - Edi\u00e7\u00e3o De Luxo",
+    "url": "https://www.livrariascuritiba.com.br/tempo-de-reacender-estrelas-lv466249/p",
+    "titulo": "Tempo De Reacender Estrelas",
     "edicao": "1",
     "serie": null,
-    "isbn": "6587435521",
-    "numPaginas": "112",
-    "editora": "BOOK ONE EDITORA LTDA",
-    "ano": "2021",
-    "autores": "MACHADO DE ASSIS",
+    "isbn": "9786586553291",
+    "numPaginas": "288",
+    "editora": "GUTENBERG EDITORA",
+    "ano": "2020",
+    "autores": "VIRGINIE GRIMALDI",
     "tags": "Romance",
-    "precos": "R$ 16,90",
-    "nota": {
-      "notaFinal": null,
-      "qtdVotos": null
-    }
-  },
-  {
-    "url": "https://www.livrariascuritiba.com.br/colecao-especial-colleen-hoover-e-assim-que-acaba-e-comeca-kt000346/p",
-    "titulo": "Cole\u00e7\u00e3o Especial - Colleen Hoover - \u00c9 assim que acaba e come\u00e7a",
-    "edicao": null,
-    "serie": null,
-    "isbn": null,
-    "numPaginas": null,
-    "editora": "GALERA",
-    "ano": "2017 e 2022",
-    "autores": "COLLEEN HOOVER",
-    "tags": "Romance",
-    "precos": "R$ 79,84",
-    "nota": {
-      "notaFinal": null,
-      "qtdVotos": null
-    }
-  },
-  {
-    "url": "https://www.livrariascuritiba.com.br/bluey-hora-de-brincar-lv517963/p",
-    "titulo": "Bluey Hora De Brincar",
-    "edicao": "1",
-    "serie": null,
-    "isbn": "6561261798",
-    "numPaginas": "16",
-    "editora": "EDITORA ONLINE",
-    "ano": "2024",
-    "autores": "VARIOS",
-    "tags": "Literatura Infantil",
     "precos": "R$ 19,90",
     "nota": {
       "notaFinal": null,
@@ -68,51 +85,17 @@
     }
   },
   {
-    "url": "https://www.livrariascuritiba.com.br/os-segredos-de-colin-bridgerton---vol-4-lv347938/p",
-    "titulo": "Os Segredos De Colin Bridgerton - Vol 4",
+    "url": "https://www.livrariascuritiba.com.br/o-alienista---edicao-de-luxo-lv480484/p",
+    "titulo": "O Alienista - Edi\u00e7\u00e3o De Luxo",
     "edicao": "1",
     "serie": null,
-    "isbn": "8580413079",
-    "numPaginas": "336",
-    "editora": "EDITORA ARQUEIRO",
-    "ano": "2014",
-    "autores": "JULIA QUINN",
-    "tags": "Romance",
-    "precos": "R$ 49,10",
-    "nota": {
-      "notaFinal": null,
-      "qtdVotos": null
-    }
-  },
-  {
-    "url": "https://www.livrariascuritiba.com.br/como-morrem-os-pobres-e-outras-historias-lv486416/p",
-    "titulo": "Como Morrem Os Pobres E Outras Hist\u00f3rias",
-    "edicao": "1",
-    "serie": null,
-    "isbn": "6587435661",
-    "numPaginas": "304",
+    "isbn": "9786587435527",
+    "numPaginas": "112",
     "editora": "BOOK ONE EDITORA LTDA",
-    "ano": "2022",
-    "autores": "GEORGE ORWELL",
+    "ano": "2021",
+    "autores": "MACHADO DE ASSIS",
     "tags": "Romance",
     "precos": "R$ 16,90",
-    "nota": {
-      "notaFinal": null,
-      "qtdVotos": null
-    }
-  },
-  {
-    "url": "https://www.livrariascuritiba.com.br/diversao-na-escola---espaco-lv518071/p",
-    "titulo": "Divers\u00e3o Na Escola - Espa\u00e7o",
-    "edicao": "1",
-    "serie": null,
-    "isbn": "6561260414",
-    "numPaginas": "32",
-    "editora": "EDITORA ONLINE",
-    "ano": "2024",
-    "autores": "VARIOS",
-    "tags": "Para Colorir",
-    "precos": "R$ 49,90",
     "nota": {
       "notaFinal": null,
       "qtdVotos": null
@@ -136,85 +119,17 @@
     }
   },
   {
-    "url": "https://www.livrariascuritiba.com.br/orar-faz-muito-bem--lv512865/p",
-    "titulo": "Orar Faz Muito Bem!",
+    "url": "https://www.livrariascuritiba.com.br/os-bridgertons---um-amor-de-familia-lv482857/p",
+    "titulo": "Os Bridgertons - Um Amor De Fam\u00edlia",
     "edicao": "1",
     "serie": null,
-    "isbn": "6555043385",
+    "isbn": "9786555652475",
     "numPaginas": "224",
-    "editora": "LOYOLA SP",
-    "ano": "2024",
-    "autores": "PADRE ALEX NOGUEIRA",
-    "tags": "Cristianismo",
-    "precos": "R$ 41,90",
-    "nota": {
-      "notaFinal": null,
-      "qtdVotos": null
-    }
-  },
-  {
-    "url": "https://www.livrariascuritiba.com.br/mind-time-lv474290/p",
-    "titulo": "Mind Time",
-    "edicao": "1",
-    "serie": null,
-    "isbn": "6557360965",
-    "numPaginas": "248",
-    "editora": "PENSAMENTO",
-    "ano": "2021",
-    "autores": "MEGAN REITZ",
-    "tags": "Autoajuda",
-    "precos": "R$ 9,90",
-    "nota": {
-      "notaFinal": null,
-      "qtdVotos": null
-    }
-  },
-  {
-    "url": "https://www.livrariascuritiba.com.br/verity-lv461348/p",
-    "titulo": "Verity",
-    "edicao": "1",
-    "serie": null,
-    "isbn": "8501117846",
-    "numPaginas": "320",
-    "editora": "RECORD",
-    "ano": "2020",
-    "autores": "COLLEEN HOOVER",
-    "tags": "Romance",
-    "precos": "R$ 40,00",
-    "nota": {
-      "notaFinal": null,
-      "qtdVotos": null
-    }
-  },
-  {
-    "url": "https://www.livrariascuritiba.com.br/rainha-charlotte-lv501292/p",
-    "titulo": "Rainha Charlotte",
-    "edicao": "1",
-    "serie": null,
-    "isbn": "6555654864",
-    "numPaginas": "352",
     "editora": "EDITORA ARQUEIRO",
-    "ano": "2023",
+    "ano": "2020",
     "autores": "JULIA QUINN",
     "tags": "Romance",
-    "precos": "R$ 39,90",
-    "nota": {
-      "notaFinal": null,
-      "qtdVotos": null
-    }
-  },
-  {
-    "url": "https://www.livrariascuritiba.com.br/tempo-de-reacender-estrelas-lv466249/p",
-    "titulo": "Tempo De Reacender Estrelas",
-    "edicao": "1",
-    "serie": null,
-    "isbn": "6586553296",
-    "numPaginas": "288",
-    "editora": "GUTENBERG EDITORA",
-    "ano": "2020",
-    "autores": "VIRGINIE GRIMALDI",
-    "tags": "Romance",
-    "precos": "R$ 19,90",
+    "precos": "R$ 12,90",
     "nota": {
       "notaFinal": null,
       "qtdVotos": null
@@ -225,7 +140,7 @@
     "titulo": "Voc\u00ea Merece Um Amor Bom",
     "edicao": "1",
     "serie": null,
-    "isbn": "855503082X",
+    "isbn": "9788555030826",
     "numPaginas": "216",
     "editora": "PENSAMENTO",
     "ano": "2018",
@@ -238,51 +153,34 @@
     }
   },
   {
-    "url": "https://www.livrariascuritiba.com.br/nao-e-amor---sobrecapa-com-corte-especial-lv518258/p",
-    "titulo": "N\u00e3o \u00c9 Amor + Sobrecapa Com Corte Especial",
+    "url": "https://www.livrariascuritiba.com.br/memorias-postumas-de-bras-cubas-lv486265/p",
+    "titulo": "Mem\u00f3rias P\u00f3stumas De Br\u00e1s Cubas",
     "edicao": "1",
     "serie": null,
-    "isbn": "6555656824",
-    "numPaginas": "368",
-    "editora": "EDITORA ARQUEIRO",
-    "ano": "2024",
-    "autores": "ALI HAZELWOOD",
+    "isbn": "9786587435602",
+    "numPaginas": "336",
+    "editora": "BOOK ONE EDITORA LTDA",
+    "ano": "2022",
+    "autores": "MACHADO DE ASSIS",
     "tags": "Romance",
-    "precos": "R$ 59,90",
+    "precos": "R$ 24,90",
     "nota": {
       "notaFinal": null,
       "qtdVotos": null
     }
   },
   {
-    "url": "https://www.livrariascuritiba.com.br/tab--transtorno-afetivo-bipolar-lv486550/p",
-    "titulo": "Tab: Transtorno Afetivo Bipolar",
+    "url": "https://www.livrariascuritiba.com.br/como-morrem-os-pobres-e-outras-historias-lv486416/p",
+    "titulo": "Como Morrem Os Pobres E Outras Hist\u00f3rias",
     "edicao": "1",
     "serie": null,
-    "isbn": "6555981172",
-    "numPaginas": "224",
-    "editora": "DARKSIDE",
-    "ano": "2021",
-    "autores": "DRA KAY REDFIELD JAMISON JAMISON",
-    "tags": "Psicologia",
-    "precos": "R$ 29,90",
-    "nota": {
-      "notaFinal": null,
-      "qtdVotos": null
-    }
-  },
-  {
-    "url": "https://www.livrariascuritiba.com.br/o-ano-em-que-menos-e-muito-mais-lv469089/p",
-    "titulo": "O Ano Em Que Menos \u00c9 Muito Mais",
-    "edicao": "1",
-    "serie": null,
-    "isbn": "6587885055",
-    "numPaginas": "1",
-    "editora": "CITADEL GRUPO EDITORIAL",
-    "ano": "2020",
-    "autores": "CAIT FLANDERS",
-    "tags": "Autoajuda",
-    "precos": "R$ 9,90",
+    "isbn": "9786587435664",
+    "numPaginas": "304",
+    "editora": "BOOK ONE EDITORA LTDA",
+    "ano": "2022",
+    "autores": "GEORGE ORWELL",
+    "tags": "Romance",
+    "precos": "R$ 16,90",
     "nota": {
       "notaFinal": null,
       "qtdVotos": null
@@ -306,11 +204,79 @@
     }
   },
   {
+    "url": "https://www.livrariascuritiba.com.br/orar-faz-muito-bem--lv512865/p",
+    "titulo": "Orar Faz Muito Bem!",
+    "edicao": "1",
+    "serie": null,
+    "isbn": "9786555043389",
+    "numPaginas": "224",
+    "editora": "LOYOLA SP",
+    "ano": "2024",
+    "autores": "PADRE ALEX NOGUEIRA",
+    "tags": "Cristianismo",
+    "precos": "R$ 41,90",
+    "nota": {
+      "notaFinal": null,
+      "qtdVotos": null
+    }
+  },
+  {
+    "url": "https://www.livrariascuritiba.com.br/o-ano-em-que-menos-e-muito-mais-lv469089/p",
+    "titulo": "O Ano Em Que Menos \u00c9 Muito Mais",
+    "edicao": "1",
+    "serie": null,
+    "isbn": "9786587885056",
+    "numPaginas": "1",
+    "editora": "CITADEL GRUPO EDITORIAL",
+    "ano": "2020",
+    "autores": "CAIT FLANDERS",
+    "tags": "Autoajuda",
+    "precos": "R$ 9,90",
+    "nota": {
+      "notaFinal": null,
+      "qtdVotos": null
+    }
+  },
+  {
+    "url": "https://www.livrariascuritiba.com.br/colecao-especial-colleen-hoover-e-assim-que-acaba-e-comeca-kt000346/p",
+    "titulo": "Cole\u00e7\u00e3o Especial - Colleen Hoover - \u00c9 assim que acaba e come\u00e7a",
+    "edicao": null,
+    "serie": null,
+    "isbn": null,
+    "numPaginas": null,
+    "editora": "GALERA",
+    "ano": "2017 e 2022",
+    "autores": "COLLEEN HOOVER",
+    "tags": "Romance",
+    "precos": "R$ 79,84",
+    "nota": {
+      "notaFinal": null,
+      "qtdVotos": null
+    }
+  },
+  {
+    "url": "https://www.livrariascuritiba.com.br/mind-time-lv474290/p",
+    "titulo": "Mind Time",
+    "edicao": "1",
+    "serie": null,
+    "isbn": "9786557360965",
+    "numPaginas": "248",
+    "editora": "PENSAMENTO",
+    "ano": "2021",
+    "autores": "MEGAN REITZ",
+    "tags": "Autoajuda",
+    "precos": "R$ 9,90",
+    "nota": {
+      "notaFinal": null,
+      "qtdVotos": null
+    }
+  },
+  {
     "url": "https://www.livrariascuritiba.com.br/a-quimica-que-ha-entre-nos-lv465223/p",
     "titulo": "A Qu\u00edmica Que H\u00e1 Entre N\u00f3s",
     "edicao": "1",
     "serie": null,
-    "isbn": "658813102X",
+    "isbn": "9786588131022",
     "numPaginas": "272",
     "editora": "ALT",
     "ano": "2020",
@@ -323,51 +289,119 @@
     }
   },
   {
-    "url": "https://www.livrariascuritiba.com.br/habitos-atomicos-lv453264/p",
-    "titulo": "H\u00e1bitos At\u00f4micos",
+    "url": "https://www.livrariascuritiba.com.br/diversao-na-escola---espaco-lv518071/p",
+    "titulo": "Divers\u00e3o Na Escola - Espa\u00e7o",
     "edicao": "1",
     "serie": null,
-    "isbn": "8550807567",
-    "numPaginas": "320",
-    "editora": "ALTA LIFE",
-    "ano": "2019",
-    "autores": "JAMES CLEAR",
-    "tags": "Autoajuda",
-    "precos": "R$ 46,90",
+    "isbn": "9786561260411",
+    "numPaginas": "32",
+    "editora": "EDITORA ONLINE",
+    "ano": "2024",
+    "autores": "VARIOS",
+    "tags": "Para Colorir",
+    "precos": "R$ 49,90",
     "nota": {
       "notaFinal": null,
       "qtdVotos": null
     }
   },
   {
-    "url": "https://www.livrariascuritiba.com.br/os-bridgertons---um-amor-de-familia-lv482857/p",
-    "titulo": "Os Bridgertons - Um Amor De Fam\u00edlia",
+    "url": "https://www.livrariascuritiba.com.br/a-psicologia-financeira-lv471779/p",
+    "titulo": "A Psicologia Financeira",
     "edicao": "1",
     "serie": null,
-    "isbn": "6555652470",
-    "numPaginas": "224",
+    "isbn": "9786555111101",
+    "numPaginas": "304",
+    "editora": "HARPERCOLLINS",
+    "ano": "2021",
+    "autores": "MORGAN HOUSEL",
+    "tags": "Administra\u00e7\u00e3o Financeira",
+    "precos": "R$ 38,40",
+    "nota": {
+      "notaFinal": null,
+      "qtdVotos": null
+    }
+  },
+  {
+    "url": "https://www.livrariascuritiba.com.br/nao-e-amor---sobrecapa-com-corte-especial-lv518258/p",
+    "titulo": "N\u00e3o \u00c9 Amor + Sobrecapa Com Corte Especial",
+    "edicao": "1",
+    "serie": null,
+    "isbn": "9786555656824",
+    "numPaginas": "368",
     "editora": "EDITORA ARQUEIRO",
-    "ano": "2020",
+    "ano": "2024",
+    "autores": "ALI HAZELWOOD",
+    "tags": "Romance",
+    "precos": "R$ 59,90",
+    "nota": {
+      "notaFinal": null,
+      "qtdVotos": null
+    }
+  },
+  {
+    "url": "https://www.livrariascuritiba.com.br/amor-em-jogo---ecobag-lv516604/p",
+    "titulo": "Amor Em Jogo + Ecobag",
+    "edicao": "1",
+    "serie": null,
+    "isbn": "9786555656572",
+    "numPaginas": "416",
+    "editora": "EDITORA ARQUEIRO",
+    "ano": "2024",
+    "autores": "ELENA ARMAS",
+    "tags": "Romance",
+    "precos": "R$ 59,90",
+    "nota": {
+      "notaFinal": null,
+      "qtdVotos": null
+    }
+  },
+  {
+    "url": "https://www.livrariascuritiba.com.br/mae-me-conta-a-sua-historia--lv439260/p",
+    "titulo": "M\u00e3e Me Conta A Sua Hist\u00f3ria?",
+    "edicao": "1",
+    "serie": null,
+    "isbn": "9788543106700",
+    "numPaginas": "160",
+    "editora": "GMT",
+    "ano": "2018",
+    "autores": "ELMA VAN VLIET",
+    "tags": "Relacionamento Interpessoal",
+    "precos": "R$ 57,30",
+    "nota": {
+      "notaFinal": null,
+      "qtdVotos": null
+    }
+  },
+  {
+    "url": "https://www.livrariascuritiba.com.br/rainha-charlotte-lv501292/p",
+    "titulo": "Rainha Charlotte",
+    "edicao": "1",
+    "serie": null,
+    "isbn": "9786555654868",
+    "numPaginas": "352",
+    "editora": "EDITORA ARQUEIRO",
+    "ano": "2023",
     "autores": "JULIA QUINN",
     "tags": "Romance",
-    "precos": "R$ 12,90",
+    "precos": "R$ 39,90",
     "nota": {
       "notaFinal": null,
       "qtdVotos": null
     }
   },
   {
-    "url": "https://www.livrariascuritiba.com.br/breve-historia-da-arte-moderna-lv516661/p",
-    "titulo": "Breve Hist\u00f3ria Da Arte Moderna",
+    "url": "https://www.livrariascuritiba.com.br/verity-lv461348/p",
+    "titulo": "Verity",
     "edicao": "1",
     "serie": null,
-    "isbn": "6560920143",
-    "numPaginas": "224",
-    "editora": "EDITORA OLHARES",
-    "ano": "2024",
-    "autores": "SUSIE HODGE",
-    "tags": "Arte",
-    "precos": "R$ 130,00",
+    "isbn": "9788501117847",
+    "numPaginas": "320",
+    "editora": "RECORD",
+    "ano": "2020",
+    "autores": "COLLEEN HOOVER",
+    "tags": "Romance",
+    "precos": "R$ 40,00",
     "nota": {
       "notaFinal": null,
       "qtdVotos": null
@@ -378,7 +412,7 @@
     "titulo": "O Filho De Hitler",
     "edicao": "1",
     "serie": null,
-    "isbn": "6556090360",
+    "isbn": "9786556090368",
     "numPaginas": "400",
     "editora": "UNIVERSO DOS LIVROS",
     "ano": "2021",
@@ -391,51 +425,17 @@
     }
   },
   {
-    "url": "https://www.livrariascuritiba.com.br/bolofofos-colorindo-especial-lv518068/p",
-    "titulo": "Bolofofos Colorindo Especial",
+    "url": "https://www.livrariascuritiba.com.br/os-segredos-de-colin-bridgerton---vol-4-lv347938/p",
+    "titulo": "Os Segredos De Colin Bridgerton - Vol 4",
     "edicao": "1",
     "serie": null,
-    "isbn": "6561260147",
-    "numPaginas": "16",
-    "editora": "EDITORA ONLINE",
-    "ano": "2024",
-    "autores": "VARIOS",
-    "tags": "Literatura Infantil",
-    "precos": "R$ 19,90",
-    "nota": {
-      "notaFinal": null,
-      "qtdVotos": null
-    }
-  },
-  {
-    "url": "https://www.livrariascuritiba.com.br/o-fabricante-de-lagrimas-lv506674/p",
-    "titulo": "O Fabricante De L\u00e1grimas",
-    "edicao": "1",
-    "serie": null,
-    "isbn": "6560050343",
-    "numPaginas": "560",
-    "editora": "HARPERCOLLINS",
-    "ano": "2023",
-    "autores": "ERIN DOOM",
-    "tags": "Romance",
-    "precos": "R$ 61,50",
-    "nota": {
-      "notaFinal": null,
-      "qtdVotos": null
-    }
-  },
-  {
-    "url": "https://www.livrariascuritiba.com.br/memorias-postumas-de-bras-cubas-lv486265/p",
-    "titulo": "Mem\u00f3rias P\u00f3stumas De Br\u00e1s Cubas",
-    "edicao": "1",
-    "serie": null,
-    "isbn": "6587435602",
+    "isbn": "9788580413076",
     "numPaginas": "336",
-    "editora": "BOOK ONE EDITORA LTDA",
-    "ano": "2022",
-    "autores": "MACHADO DE ASSIS",
+    "editora": "EDITORA ARQUEIRO",
+    "ano": "2014",
+    "autores": "JULIA QUINN",
     "tags": "Romance",
-    "precos": "R$ 24,90",
+    "precos": "R$ 49,10",
     "nota": {
       "notaFinal": null,
       "qtdVotos": null
